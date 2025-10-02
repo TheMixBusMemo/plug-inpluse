@@ -7,7 +7,8 @@ layout: default
 
 # The Mix Bus Memo
 
-Hello! This is the start of our daily music-production deals and preset picks.
+Hello! This is the start of our Weekly music-production deals and preset picks.
+Reviews, Interviews and Music Prodution Tips.
 
 [Disclosures](./disclosures) • [Privacy](./privacy)
 
