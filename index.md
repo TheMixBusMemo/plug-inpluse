@@ -21,4 +21,5 @@ Reviews, Interviews and Music Prodution Tips.
     ml('account', '1831649');
 </script>
 <!-- End MailerLite Universal -->
+<div class="ml-embedded" data-form="bONPqs"></div>
 _TheMixBusMemo is maintained by Plug-Impulse._
