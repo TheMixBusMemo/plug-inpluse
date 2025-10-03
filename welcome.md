@@ -12,4 +12,3 @@ Thanks for confirming your email.
 - Start here: [Home](/)
 
 If my email isn’t there, check Spam/Promotions, then add **plug.impulse@gmail.com** to contacts.
-
